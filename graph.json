@@ -1,0 +1,588 @@
+{
+    "alt z": [
+        "canadian pop",
+        "dance pop",
+        "electropop",
+        "indie poptimism",
+        "metropopolis",
+        "pop",
+        "post-teen pop"
+    ],
+    "canadian pop": [
+        "alt z",
+        "canadian contemporary r&b",
+        "dance pop",
+        "pop",
+        "post-teen pop",
+        "viral pop"
+    ],
+    "dance pop": [
+        "alt z",
+        "big room",
+        "brostep",
+        "canadian pop",
+        "colombian pop",
+        "dirty south rap",
+        "dutch edm",
+        "edm",
+        "electro house",
+        "electronic trap",
+        "electropop",
+        "escape room",
+        "hip hop",
+        "house",
+        "latin",
+        "latin pop",
+        "miami hip hop",
+        "minnesota hip hop",
+        "pop",
+        "pop dance",
+        "pop rap",
+        "post-teen pop",
+        "progressive electro house",
+        "r&b",
+        "rap",
+        "romanian house",
+        "romanian pop",
+        "slap house",
+        "southern hip hop",
+        "trance",
+        "trap",
+        "trap queen",
+        "tropical house",
+        "uk dance",
+        "uk pop",
+        "viral pop"
+    ],
+    "electropop": [
+        "alt z",
+        "art pop",
+        "dance pop",
+        "escape room",
+        "indie poptimism",
+        "metropopolis",
+        "pop",
+        "post-teen pop"
+    ],
+    "indie poptimism": [
+        "alt z",
+        "electropop",
+        "metropopolis",
+        "pop"
+    ],
+    "metropopolis": [
+        "alt z",
+        "electropop",
+        "indie poptimism",
+        "pop"
+    ],
+    "pop": [
+        "alt z",
+        "art pop",
+        "australian dance",
+        "australian pop",
+        "belgian edm",
+        "big room",
+        "british soul",
+        "brostep",
+        "canadian contemporary r&b",
+        "canadian pop",
+        "colombian pop",
+        "dance pop",
+        "dirty south rap",
+        "dutch edm",
+        "edm",
+        "electro house",
+        "electronic trap",
+        "electropop",
+        "escape room",
+        "hip hop",
+        "house",
+        "indie poptimism",
+        "latin",
+        "latin pop",
+        "lgbtq+ hip hop",
+        "metropopolis",
+        "miami hip hop",
+        "minnesota hip hop",
+        "permanent wave",
+        "pop dance",
+        "pop rap",
+        "pop rock",
+        "pop soul",
+        "post-teen pop",
+        "progressive electro house",
+        "r&b",
+        "rap",
+        "slap house",
+        "southern hip hop",
+        "trance",
+        "trap",
+        "trap queen",
+        "tropical house",
+        "uk pop",
+        "viral pop"
+    ],
+    "post-teen pop": [
+        "alt z",
+        "canadian pop",
+        "dance pop",
+        "electropop",
+        "pop",
+        "pop dance",
+        "pop rap",
+        "tropical house",
+        "uk pop"
+    ],
+    "alternative r&b": [
+        "cali rap",
+        "pop rap",
+        "trap soul",
+        "underground hip hop"
+    ],
+    "cali rap": [
+        "alternative r&b",
+        "pop rap",
+        "trap soul",
+        "underground hip hop"
+    ],
+    "pop rap": [
+        "alternative r&b",
+        "cali rap",
+        "dance pop",
+        "dirty south rap",
+        "edm",
+        "electronic trap",
+        "hip hop",
+        "miami hip hop",
+        "pop",
+        "pop dance",
+        "post-teen pop",
+        "rap",
+        "southern hip hop",
+        "trap",
+        "trap soul",
+        "underground hip hop"
+    ],
+    "trap soul": [
+        "alternative r&b",
+        "cali rap",
+        "pop rap",
+        "underground hip hop"
+    ],
+    "underground hip hop": [
+        "alternative r&b",
+        "cali rap",
+        "pop rap",
+        "trap soul"
+    ],
+    "arkansas hip hop": [
+        "atl trap",
+        "trap"
+    ],
+    "atl trap": [
+        "arkansas hip hop",
+        "trap"
+    ],
+    "trap": [
+        "arkansas hip hop",
+        "atl trap",
+        "dance pop",
+        "dirty south rap",
+        "hip hop",
+        "miami hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop"
+    ],
+    "art pop": [
+        "electropop",
+        "pop"
+    ],
+    "australian dance": [
+        "australian pop",
+        "pop"
+    ],
+    "australian pop": [
+        "australian dance",
+        "pop"
+    ],
+    "belgian edm": [
+        "edm",
+        "pop",
+        "pop dance",
+        "tropical house"
+    ],
+    "edm": [
+        "belgian edm",
+        "big room",
+        "brostep",
+        "dance pop",
+        "dutch edm",
+        "electro house",
+        "electronic trap",
+        "house",
+        "pop",
+        "pop dance",
+        "pop rap",
+        "progressive electro house",
+        "slap house",
+        "trance",
+        "tropical house",
+        "uk dance"
+    ],
+    "pop dance": [
+        "belgian edm",
+        "big room",
+        "brostep",
+        "dance pop",
+        "deep house",
+        "dutch edm",
+        "edm",
+        "electro house",
+        "electronic trap",
+        "house",
+        "pop",
+        "pop rap",
+        "post-teen pop",
+        "progressive electro house",
+        "slap house",
+        "trance",
+        "tropical house",
+        "uk dance",
+        "uk pop"
+    ],
+    "tropical house": [
+        "belgian edm",
+        "big room",
+        "brostep",
+        "dance pop",
+        "deep house",
+        "dutch edm",
+        "edm",
+        "electro house",
+        "house",
+        "modern rock",
+        "pop",
+        "pop dance",
+        "post-teen pop",
+        "slap house",
+        "trance",
+        "uk dance",
+        "uk pop"
+    ],
+    "big room": [
+        "brostep",
+        "dance pop",
+        "dutch edm",
+        "edm",
+        "house",
+        "pop",
+        "pop dance",
+        "slap house",
+        "trance",
+        "tropical house"
+    ],
+    "brostep": [
+        "big room",
+        "dance pop",
+        "dutch edm",
+        "edm",
+        "house",
+        "pop",
+        "pop dance",
+        "progressive electro house",
+        "slap house",
+        "trance",
+        "tropical house"
+    ],
+    "dutch edm": [
+        "big room",
+        "brostep",
+        "dance pop",
+        "edm",
+        "house",
+        "pop",
+        "pop dance",
+        "slap house",
+        "trance",
+        "tropical house"
+    ],
+    "house": [
+        "big room",
+        "brostep",
+        "dance pop",
+        "dutch edm",
+        "edm",
+        "pop",
+        "pop dance",
+        "slap house",
+        "trance",
+        "tropical house",
+        "uk dance"
+    ],
+    "slap house": [
+        "big room",
+        "brostep",
+        "dance pop",
+        "dutch edm",
+        "edm",
+        "house",
+        "pop",
+        "pop dance",
+        "trance",
+        "tropical house"
+    ],
+    "trance": [
+        "big room",
+        "brostep",
+        "dance pop",
+        "dutch edm",
+        "edm",
+        "house",
+        "pop",
+        "pop dance",
+        "slap house",
+        "tropical house"
+    ],
+    "british soul": [
+        "pop",
+        "pop soul",
+        "uk pop"
+    ],
+    "pop soul": [
+        "british soul",
+        "pop",
+        "uk pop"
+    ],
+    "uk pop": [
+        "british soul",
+        "dance pop",
+        "modern rock",
+        "pop",
+        "pop dance",
+        "pop soul",
+        "post-teen pop",
+        "tropical house"
+    ],
+    "progressive electro house": [
+        "brostep",
+        "dance pop",
+        "edm",
+        "electro house",
+        "pop",
+        "pop dance"
+    ],
+    "canadian contemporary r&b": [
+        "canadian pop",
+        "pop"
+    ],
+    "viral pop": [
+        "canadian pop",
+        "dance pop",
+        "pop"
+    ],
+    "colombian pop": [
+        "dance pop",
+        "latin",
+        "latin pop",
+        "pop",
+        "r&b"
+    ],
+    "latin": [
+        "colombian pop",
+        "dance pop",
+        "latin pop",
+        "pop"
+    ],
+    "latin pop": [
+        "colombian pop",
+        "dance pop",
+        "latin",
+        "pop"
+    ],
+    "r&b": [
+        "colombian pop",
+        "dance pop",
+        "pop"
+    ],
+    "dirty south rap": [
+        "dance pop",
+        "hip hop",
+        "miami hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+    ],
+    "electro house": [
+        "dance pop",
+        "edm",
+        "pop",
+        "pop dance",
+        "progressive electro house",
+        "tropical house"
+    ],
+    "electronic trap": [
+        "dance pop",
+        "edm",
+        "pop",
+        "pop dance",
+        "pop rap"
+    ],
+    "escape room": [
+        "dance pop",
+        "electropop",
+        "minnesota hip hop",
+        "pop",
+        "trap queen"
+    ],
+    "hip hop": [
+        "dance pop",
+        "dirty south rap",
+        "miami hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+    ],
+    "miami hip hop": [
+        "dance pop",
+        "dirty south rap",
+        "hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "southern hip hop",
+        "trap"
+    ],
+    "minnesota hip hop": [
+        "dance pop",
+        "escape room",
+        "pop",
+        "trap queen"
+    ],
+    "rap": [
+        "dance pop",
+        "dfw rap",
+        "dirty south rap",
+        "hip hop",
+        "melodic rap",
+        "miami hip hop",
+        "pop",
+        "pop rap",
+        "southern hip hop",
+        "trap"
+    ],
+    "romanian house": [
+        "dance pop",
+        "romanian pop"
+    ],
+    "romanian pop": [
+        "dance pop",
+        "romanian house"
+    ],
+    "southern hip hop": [
+        "dance pop",
+        "dirty south rap",
+        "hip hop",
+        "miami hip hop",
+        "pop",
+        "pop rap",
+        "rap",
+        "trap"
+    ],
+    "trap queen": [
+        "dance pop",
+        "escape room",
+        "minnesota hip hop",
+        "pop"
+    ],
+    "uk dance": [
+        "dance pop",
+        "edm",
+        "house",
+        "pop dance",
+        "tropical house"
+    ],
+    "deep house": [
+        "pop dance",
+        "tropical house"
+    ],
+    "dfw rap": [
+        "melodic rap",
+        "rap"
+    ],
+    "melodic rap": [
+        "dfw rap",
+        "rap"
+    ],
+    "funk carioca": [
+        "funk pop",
+        "pagode baiano",
+        "pop nacional"
+    ],
+    "funk pop": [
+        "funk carioca",
+        "pagode baiano",
+        "pop nacional"
+    ],
+    "pagode baiano": [
+        "funk carioca",
+        "funk pop",
+        "pop nacional"
+    ],
+    "pop nacional": [
+        "funk carioca",
+        "funk pop",
+        "pagode baiano"
+    ],
+    "glam rock": [
+        "mellow gold",
+        "piano rock"
+    ],
+    "mellow gold": [
+        "glam rock",
+        "piano rock"
+    ],
+    "piano rock": [
+        "glam rock",
+        "mellow gold"
+    ],
+    "k-pop": [
+        "k-pop boy group"
+    ],
+    "k-pop boy group": [
+        "k-pop"
+    ],
+    "lgbtq+ hip hop": [
+        "pop"
+    ],
+    "modern indie pop": [
+        "modern rock"
+    ],
+    "modern rock": [
+        "modern indie pop",
+        "rock",
+        "tropical house",
+        "uk pop"
+    ],
+    "rock": [
+        "modern rock"
+    ],
+    "permanent wave": [
+        "pop"
+    ],
+    "pop rock": [
+        "pop"
+    ],
+    "alternative hip hop": [],
+    "australian hip hop": [],
+    "deep vocal house": [],
+    "modern alternative pop": [],
+    "nyc rap": [],
+    "uk hip hop": []
+}
